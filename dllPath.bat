@@ -1,0 +1,2 @@
+@ECHO OFF
+SET "PATH=C:/epics/support/areaDetector/ADDexela/iocs/dexelaIOC/../../bin/windows-x64-static;C:/epics/support/bin/windows-x64-static;C:/epics/support/asyn/bin/windows-x64-static;C:/epics/support/areaDetector/ADSupport/bin/windows-x64-static;C:/epics/support/autosave/bin/windows-x64-static;C:/epics/support/busy/bin/windows-x64-static;C:/epics/support/seq/bin/windows-x64-static;C:/epics/support/iocStats/bin/windows-x64-static;C:/epics/base/bin/windows-x64-static;%PATH%"
